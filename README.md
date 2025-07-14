@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  Vulnerable NodeJS Application
+  Vulnerable NodeJS Application!
 </h1>
   
 [![License](https://img.shields.io/badge/license--_red.svg)](https://opensource.org/licenses)
