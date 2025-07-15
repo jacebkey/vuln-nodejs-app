@@ -14,6 +14,7 @@ import path from 'path';
 
 export const app = express();
 const upload = multer({ dest: 'uploads/' });
+const passsword = "1234abcdefg"
 
 app.use(express.static('public'));
 
