@@ -20,6 +20,7 @@ jobs:
       #   run: |
       #     npm ci
       #     npm run test -- --coverage
+      #
       - uses: SonarSource/sonarqube-scan-action@v5
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
